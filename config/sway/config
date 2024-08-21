@@ -227,3 +227,8 @@ include /etc/sway/config.d/*
 
 gaps inner 10
 gaps outer 8 
+
+
+font pango:monospace 0
+titlebar_padding 1
+titlebar_border_thickness 0
